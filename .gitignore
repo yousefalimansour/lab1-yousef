@@ -1,0 +1,8 @@
+# Ignore the logs folder
+logs/
+
+# Ignore all .log files anywhere in the project
+*.log
+
+# Ignore the node_modules folder
+node_modules/

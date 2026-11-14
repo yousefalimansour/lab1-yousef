@@ -10,4 +10,3 @@ This repository is my solution for ITI Version Control Lab 1.
 
 
 Lab 2: branches, merge, stash, cherry-pick, revert"
-git statu

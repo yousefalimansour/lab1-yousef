@@ -7,3 +7,7 @@ This repository is my solution for ITI Version Control Lab 1.
 - At least 3 commits
 - At least 2 branches
 - A `.gitignore` file that ignores the `logs/` folder, all `.log` files, and `node_modules/`
+
+
+Lab 2: branches, merge, stash, cherry-pick, revert"
+git statu
